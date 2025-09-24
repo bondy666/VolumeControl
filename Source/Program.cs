@@ -164,7 +164,7 @@ public class VolumeControl
     private const uint REG_OPTION_NON_VOLATILE = 0;    // Registry key persists after reboot
 
     // Registry paths and value names - SIMPLIFIED TO ONE SETTING
-    private const string REGISTRY_KEY_PATH = @"SOFTWARE\Morgan Stanley\SpeakerVolume";
+    private const string REGISTRY_KEY_PATH = @"SOFTWARE\Control Panel\SpeakerVolume";
     private const string VOLUME_LEVEL_VALUE = "VolumeLevel";  // Single registry value for volume storage
 
     #endregion

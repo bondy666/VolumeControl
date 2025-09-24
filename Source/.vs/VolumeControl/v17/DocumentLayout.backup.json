@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\VolumeControl\\SoundVolume\\",
+  "WorkspaceRootPath": "D:\\Projects\\VolumeControl\\Source\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8C9131C-C6EE-4E2A-ABA7-24CC54B47457}|SoundVolume.csproj|d:\\projects\\volumecontrol\\soundvolume\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8C9131C-C6EE-4E2A-ABA7-24CC54B47457}|SoundVolume.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8C9131C-C6EE-4E2A-ABA7-24CC54B47457}|VolumeControl.csproj|d:\\projects\\volumecontrol\\source\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C9131C-C6EE-4E2A-ABA7-24CC54B47457}|VolumeControl.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8C9131C-C6EE-4E2A-ABA7-24CC54B47457}|VolumeControl.csproj|d:\\projects\\volumecontrol\\soundvolume\\volumecontrol.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{A8C9131C-C6EE-4E2A-ABA7-24CC54B47457}|VolumeControl.csproj|d:\\projects\\volumecontrol\\source\\volumecontrol.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{A8C9131C-C6EE-4E2A-ABA7-24CC54B47457}|VolumeControl.csproj|solutionrelative:volumecontrol.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8C9131C-C6EE-4E2A-ABA7-24CC54B47457}|VolumeControl.csproj|d:\\projects\\volumecontrol\\soundvolume\\volumecontrol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A8C9131C-C6EE-4E2A-ABA7-24CC54B47457}|VolumeControl.csproj|d:\\projects\\volumecontrol\\source\\volumecontrol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A8C9131C-C6EE-4E2A-ABA7-24CC54B47457}|VolumeControl.csproj|solutionrelative:volumecontrol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -30,27 +30,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SoundVolume",
-              "DocumentMoniker": "D:\\Projects\\VolumeControl\\SoundVolume\\VolumeControl.csproj",
+              "Title": "VolumeControl",
+              "DocumentMoniker": "D:\\Projects\\VolumeControl\\Source\\VolumeControl.csproj",
               "RelativeDocumentMoniker": "VolumeControl.csproj",
-              "ToolTip": "D:\\Projects\\VolumeControl\\SoundVolume\\VolumeControl.csproj",
+              "ToolTip": "D:\\Projects\\VolumeControl\\Source\\VolumeControl.csproj",
               "RelativeToolTip": "VolumeControl.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-24T11:54:18.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T11:54:18.413Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SoundVolume.csproj",
-              "DocumentMoniker": "D:\\Projects\\VolumeControl\\SoundVolume\\VolumeControl.csproj",
+              "Title": "VolumeControl.csproj",
+              "DocumentMoniker": "D:\\Projects\\VolumeControl\\Source\\VolumeControl.csproj",
               "RelativeDocumentMoniker": "VolumeControl.csproj",
-              "ToolTip": "D:\\Projects\\VolumeControl\\SoundVolume\\VolumeControl.csproj",
+              "ToolTip": "D:\\Projects\\VolumeControl\\Source\\VolumeControl.csproj",
               "RelativeToolTip": "VolumeControl.csproj",
               "ViewState": "AgIAAAEAAAAAAAAAAABBwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-24T10:42:58.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T10:42:58.118Z"
             },
             {
               "$type": "Document",
@@ -65,11 +63,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\VolumeControl\\SoundVolume\\Program.cs",
+              "DocumentMoniker": "D:\\Projects\\VolumeControl\\Source\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Projects\\VolumeControl\\SoundVolume\\Program.cs",
+              "ToolTip": "D:\\Projects\\VolumeControl\\Source\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAIkAAAAAAAAAAAApwKYAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T13:21:52.75Z",
               "EditorCaption": ""

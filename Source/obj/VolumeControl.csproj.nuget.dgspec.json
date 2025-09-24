@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\VolumeControl\\SoundVolume\\VolumeControl.csproj": {}
+    "D:\\Projects\\VolumeControl\\Source\\VolumeControl.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\VolumeControl\\SoundVolume\\VolumeControl.csproj": {
+    "D:\\Projects\\VolumeControl\\Source\\VolumeControl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\VolumeControl\\SoundVolume\\VolumeControl.csproj",
+        "projectUniqueName": "D:\\Projects\\VolumeControl\\Source\\VolumeControl.csproj",
         "projectName": "VolumeControl",
-        "projectPath": "D:\\Projects\\VolumeControl\\SoundVolume\\VolumeControl.csproj",
+        "projectPath": "D:\\Projects\\VolumeControl\\Source\\VolumeControl.csproj",
         "packagesPath": "C:\\Users\\SimonBond\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\VolumeControl\\SoundVolume\\obj\\",
+        "outputPath": "D:\\Projects\\VolumeControl\\Source\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

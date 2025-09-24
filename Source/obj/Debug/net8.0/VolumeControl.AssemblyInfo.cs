@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Morgan Stanley")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Simon Bond / Morgan Stanley")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A command line application to change the sound volume")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

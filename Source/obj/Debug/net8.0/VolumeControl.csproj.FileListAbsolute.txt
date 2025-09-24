@@ -1,0 +1,15 @@
+D:\Projects\VolumeControl\Source\bin\Debug\net8.0\VolumeControl.exe
+D:\Projects\VolumeControl\Source\bin\Debug\net8.0\VolumeControl.deps.json
+D:\Projects\VolumeControl\Source\bin\Debug\net8.0\VolumeControl.runtimeconfig.json
+D:\Projects\VolumeControl\Source\bin\Debug\net8.0\VolumeControl.dll
+D:\Projects\VolumeControl\Source\bin\Debug\net8.0\VolumeControl.pdb
+D:\Projects\VolumeControl\Source\obj\Debug\net8.0\VolumeControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VolumeControl\Source\obj\Debug\net8.0\VolumeControl.AssemblyInfoInputs.cache
+D:\Projects\VolumeControl\Source\obj\Debug\net8.0\VolumeControl.AssemblyInfo.cs
+D:\Projects\VolumeControl\Source\obj\Debug\net8.0\VolumeControl.csproj.CoreCompileInputs.cache
+D:\Projects\VolumeControl\Source\obj\Debug\net8.0\VolumeControl.sourcelink.json
+D:\Projects\VolumeControl\Source\obj\Debug\net8.0\VolumeControl.dll
+D:\Projects\VolumeControl\Source\obj\Debug\net8.0\refint\VolumeControl.dll
+D:\Projects\VolumeControl\Source\obj\Debug\net8.0\VolumeControl.pdb
+D:\Projects\VolumeControl\Source\obj\Debug\net8.0\VolumeControl.genruntimeconfig.cache
+D:\Projects\VolumeControl\Source\obj\Debug\net8.0\ref\VolumeControl.dll
