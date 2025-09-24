@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\VolumeControl\\SoundVolume\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C9131C-C6EE-4E2A-ABA7-24CC54B47457}|SoundVolume.csproj|d:\\projects\\volumecontrol\\soundvolume\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C9131C-C6EE-4E2A-ABA7-24CC54B47457}|SoundVolume.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C9131C-C6EE-4E2A-ABA7-24CC54B47457}|VolumeControl.csproj|d:\\projects\\volumecontrol\\soundvolume\\volumecontrol.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A8C9131C-C6EE-4E2A-ABA7-24CC54B47457}|VolumeControl.csproj|solutionrelative:volumecontrol.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C9131C-C6EE-4E2A-ABA7-24CC54B47457}|VolumeControl.csproj|d:\\projects\\volumecontrol\\soundvolume\\volumecontrol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8C9131C-C6EE-4E2A-ABA7-24CC54B47457}|VolumeControl.csproj|solutionrelative:volumecontrol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SimonBond\\AppData\\Local\\Temp\\tmpED9C.tmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoundVolume",
+              "DocumentMoniker": "D:\\Projects\\VolumeControl\\SoundVolume\\VolumeControl.csproj",
+              "RelativeDocumentMoniker": "VolumeControl.csproj",
+              "ToolTip": "D:\\Projects\\VolumeControl\\SoundVolume\\VolumeControl.csproj",
+              "RelativeToolTip": "VolumeControl.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T11:54:18.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoundVolume.csproj",
+              "DocumentMoniker": "D:\\Projects\\VolumeControl\\SoundVolume\\VolumeControl.csproj",
+              "RelativeDocumentMoniker": "VolumeControl.csproj",
+              "ToolTip": "D:\\Projects\\VolumeControl\\SoundVolume\\VolumeControl.csproj",
+              "RelativeToolTip": "VolumeControl.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T10:42:58.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tmpED9C.tmp.cs",
+              "DocumentMoniker": "C:\\Users\\SimonBond\\AppData\\Local\\Temp\\tmpED9C.tmp.cs",
+              "ToolTip": "C:\\Users\\SimonBond\\AppData\\Local\\Temp\\tmpED9C.tmp.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T10:40:03.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\VolumeControl\\SoundVolume\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\VolumeControl\\SoundVolume\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:21:52.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

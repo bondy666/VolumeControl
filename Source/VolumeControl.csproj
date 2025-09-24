@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>speaker.ico</ApplicationIcon>
+    <Authors>Simon Bond</Authors>
+    <Company>Morgan Stanley</Company>
+    <Description>A command line application to change the sound volume</Description>
+    <PackageIcon>speaker.png</PackageIcon>
+    <Copyright>Simon Bond / Morgan Stanley</Copyright>
+    <Title>SoundVolume</Title>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="speaker.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\speaker.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

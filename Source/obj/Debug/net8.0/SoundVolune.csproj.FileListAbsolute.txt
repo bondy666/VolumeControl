@@ -1,0 +1,14 @@
+D:\Projects\Sound\SoundVolune\obj\Debug\net8.0\SoundVolune.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Sound\SoundVolune\obj\Debug\net8.0\SoundVolune.AssemblyInfoInputs.cache
+D:\Projects\Sound\SoundVolune\obj\Debug\net8.0\SoundVolune.AssemblyInfo.cs
+D:\Projects\Sound\SoundVolune\obj\Debug\net8.0\SoundVolune.csproj.CoreCompileInputs.cache
+D:\Projects\Sound\SoundVolune\bin\Debug\net8.0\SoundVolune.exe
+D:\Projects\Sound\SoundVolune\bin\Debug\net8.0\SoundVolune.deps.json
+D:\Projects\Sound\SoundVolune\bin\Debug\net8.0\SoundVolune.runtimeconfig.json
+D:\Projects\Sound\SoundVolune\bin\Debug\net8.0\SoundVolune.dll
+D:\Projects\Sound\SoundVolune\bin\Debug\net8.0\SoundVolune.pdb
+D:\Projects\Sound\SoundVolune\obj\Debug\net8.0\SoundVolune.dll
+D:\Projects\Sound\SoundVolune\obj\Debug\net8.0\refint\SoundVolune.dll
+D:\Projects\Sound\SoundVolune\obj\Debug\net8.0\SoundVolune.pdb
+D:\Projects\Sound\SoundVolune\obj\Debug\net8.0\SoundVolune.genruntimeconfig.cache
+D:\Projects\Sound\SoundVolune\obj\Debug\net8.0\ref\SoundVolune.dll

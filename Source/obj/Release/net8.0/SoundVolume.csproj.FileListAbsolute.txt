@@ -1,0 +1,14 @@
+D:\Projects\Sound-Volume\SoundVolume_1.0\bin\Release\net8.0\SoundVolume.exe
+D:\Projects\Sound-Volume\SoundVolume_1.0\bin\Release\net8.0\SoundVolume.deps.json
+D:\Projects\Sound-Volume\SoundVolume_1.0\bin\Release\net8.0\SoundVolume.runtimeconfig.json
+D:\Projects\Sound-Volume\SoundVolume_1.0\bin\Release\net8.0\SoundVolume.dll
+D:\Projects\Sound-Volume\SoundVolume_1.0\bin\Release\net8.0\SoundVolume.pdb
+D:\Projects\Sound-Volume\SoundVolume_1.0\obj\Release\net8.0\SoundVolume.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Sound-Volume\SoundVolume_1.0\obj\Release\net8.0\SoundVolume.AssemblyInfoInputs.cache
+D:\Projects\Sound-Volume\SoundVolume_1.0\obj\Release\net8.0\SoundVolume.AssemblyInfo.cs
+D:\Projects\Sound-Volume\SoundVolume_1.0\obj\Release\net8.0\SoundVolume.csproj.CoreCompileInputs.cache
+D:\Projects\Sound-Volume\SoundVolume_1.0\obj\Release\net8.0\SoundVolume.dll
+D:\Projects\Sound-Volume\SoundVolume_1.0\obj\Release\net8.0\refint\SoundVolume.dll
+D:\Projects\Sound-Volume\SoundVolume_1.0\obj\Release\net8.0\SoundVolume.pdb
+D:\Projects\Sound-Volume\SoundVolume_1.0\obj\Release\net8.0\SoundVolume.genruntimeconfig.cache
+D:\Projects\Sound-Volume\SoundVolume_1.0\obj\Release\net8.0\ref\SoundVolume.dll

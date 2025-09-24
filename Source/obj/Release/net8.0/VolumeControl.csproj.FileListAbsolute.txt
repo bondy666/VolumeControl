@@ -1,0 +1,14 @@
+D:\Projects\VolumeControl\SoundVolume\bin\Release\net8.0\VolumeControl.exe
+D:\Projects\VolumeControl\SoundVolume\bin\Release\net8.0\VolumeControl.deps.json
+D:\Projects\VolumeControl\SoundVolume\bin\Release\net8.0\VolumeControl.runtimeconfig.json
+D:\Projects\VolumeControl\SoundVolume\bin\Release\net8.0\VolumeControl.dll
+D:\Projects\VolumeControl\SoundVolume\bin\Release\net8.0\VolumeControl.pdb
+D:\Projects\VolumeControl\SoundVolume\obj\Release\net8.0\VolumeControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VolumeControl\SoundVolume\obj\Release\net8.0\VolumeControl.AssemblyInfoInputs.cache
+D:\Projects\VolumeControl\SoundVolume\obj\Release\net8.0\VolumeControl.AssemblyInfo.cs
+D:\Projects\VolumeControl\SoundVolume\obj\Release\net8.0\VolumeControl.csproj.CoreCompileInputs.cache
+D:\Projects\VolumeControl\SoundVolume\obj\Release\net8.0\VolumeControl.dll
+D:\Projects\VolumeControl\SoundVolume\obj\Release\net8.0\refint\VolumeControl.dll
+D:\Projects\VolumeControl\SoundVolume\obj\Release\net8.0\VolumeControl.pdb
+D:\Projects\VolumeControl\SoundVolume\obj\Release\net8.0\VolumeControl.genruntimeconfig.cache
+D:\Projects\VolumeControl\SoundVolume\obj\Release\net8.0\ref\VolumeControl.dll
